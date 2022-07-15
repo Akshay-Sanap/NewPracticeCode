@@ -7,6 +7,9 @@ public class NewClass {
 		System.out.println("Welcome to Nashik");
 		
 		System.out.println("Welcome to Pune");
+
+		System.out.println("Hello Mayur is Here");
+
 	}
 
 }
